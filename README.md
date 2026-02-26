@@ -6,3 +6,5 @@ Tracking my transition from legacy ETL admin to Azure Data Engineer.
 - Day 1 (Feb 26): Started GitHub setup + planned first Python scripts
 
 More updates coming daily...
+<image-card alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jakub-mysliwiec&show_icons=true&theme=radical" ></image-card>
+<image-card alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakub-mysliwiec&layout=compact&theme=radical" ></image-card>
