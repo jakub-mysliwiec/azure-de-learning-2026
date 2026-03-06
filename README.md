@@ -4,7 +4,9 @@ Tracking my transition from legacy ETL admin to Azure Data Engineer.
 
 ## Week 1 – Foundations & Storage
 - Day 1 (Feb 26): Started GitHub setup + planned first Python scripts
-
+- Day 2 (Mar 6):  Adding Band Name Generator based on python course
+  Target: Learn python semantic and good practise after years with bash/perl. Comparing python clean code approach with smart one line perl scripts.
+  
 More updates coming daily...
 <image-card alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jakub-mysliwiec&show_icons=true&theme=radical" ></image-card>
 <image-card alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakub-mysliwiec&layout=compact&theme=radical" ></image-card>
